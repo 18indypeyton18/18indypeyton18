@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Austin McLaughlin
+👋 Hi, I’m Austin McLaughlin
 
 <!---
 18indypeyton18/18indypeyton18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
